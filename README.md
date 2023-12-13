@@ -6,11 +6,22 @@ Ezt úgy lehet tapasztalni, hogy az adott képen lévő arcok köré egy négyze
 
 # Szükségletek
 
+cv2 imread
+python 3.10
+Megfelelő minőségű kép
 
 
+# Lépései a cv2 beimportálásához, program használatához
 
+1. Visual Studio Codeban való megoldás a terminalban
 
+    pip install opencv-python
 
+    VAGY
 
+    pip install opencv-contrib-python
 
-# Lépései a cv2 beimportálásához:
+2. Linux rendszeren
+
+    sudo apt-get install python3-opencv
+
