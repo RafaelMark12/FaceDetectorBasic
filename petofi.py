@@ -18,3 +18,7 @@ for (x, y, w, h) in faces:
 cv2.imshow('Petofi kep negyzettel', img)
 cv2.waitKey(0)
 
+
+
+
+
